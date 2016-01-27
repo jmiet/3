@@ -1,0 +1,4 @@
+filename=test.csv
+outputFilename=proceed.csv
+errorsFilename=errors.csv
+rowsPerFile=1000
